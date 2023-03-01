@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.device {
+    padding: 30px;
+}
+
+.device-item{
+    padding: 10px;
+}
+
+.card-img-top{
+    width: 288px;
+    height: 288px;
+}
